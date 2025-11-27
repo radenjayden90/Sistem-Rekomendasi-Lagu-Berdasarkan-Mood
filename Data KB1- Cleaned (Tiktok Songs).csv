@@ -1,0 +1,290 @@
+track_name,artist_name,artist_pop,album,track_pop,danceability,energy,loudness,mode,key,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,duration_min,song_emotion,Data Split,,random,Track Name (Proper),,Artist Name (Proper)
+Say So,Doja Cat,88,Hot Pink,80,787,673,-4583,0,11,159,264,0.000335,904,779,110962,4,03:58,Happy,Test,,0.990917554620203,Say So,,Doja Cat
+Blinding Lights,The Weeknd,93,After Hours,90,514,73,-5934,1,1,598,146,0.00954,897,334,171005,4,03:20,Sad,Train,,0.450523575418373,Blinding Lights,,The Weeknd
+Supalonely (feat. Gus Dapperton),Benee,67,Hey u x,63,862,631,-4746,1,7,515,291,209,123,841,128978,4,03:43,Happy,Test,,0.97140734038018,Supalonely (Feat. Gus Dapperton),,Benee
+Savage,Megan Thee Stallion,82,Suga,70,843,741,-5609,1,11,334,252,0,96,68,168983,4,02:35,Sad,Train,,0.168791942263127,Savage,,Megan Thee Stallion
+Moral of the Story,Ashe,68,Moral of the Story,76,572,406,-8624,1,10,427,587,0.000448,102,265,119812,4,03:21,Sad,Train,,0.357005756897283,Moral Of The Story,,Ashe
+Rain On Me (with Ariana Grande),Lady Gaga,84,Rain On Me (with Ariana Grande),74,672,855,-3764,1,9,397,21,0,323,646,123056,4,03:02,Neutral,Train,,0.235386938756211,Rain On Me (With Ariana Grande),,Lady Gaga
+Babylon,Lady Gaga,84,Chromatica,64,698,799,-4372,1,2,342,129,0.000546,215,351,115957,4,02:42,Neutral,Train,,0.518238535379396,Babylon,,Lady Gaga
+Replay,Lady Gaga,84,Chromatica,66,658,878,-3875,1,1,123,792,0,944,683,122015,4,03:07,Happy,Train,,0.281141819251675,Replay,,Lady Gaga
+My Oh My (feat. DaBaby),Camila Cabello,82,Romance,75,724,491,-6024,1,8,296,18,0.00129,887,383,105046,4,02:51,Neutral,Train,,0.469345282977672,My Oh My (Feat. Dababy),,Camila Cabello
+Physical,Dua Lipa,88,Future Nostalgia,75,647,844,-3756,1,0,457,137,658,102,746,146967,4,03:14,Happy,Validation,,0.70618478350236,Physical,,Dua Lipa
+Glitter,Benee,67,FIRE ON MARZZ,66,801,589,-5157,1,7,485,863,0,162,58,116934,4,03:00,Sad,Train,,0.155646702083721,Glitter,,Benee
+Put Your Records On,Ritt Momney,60,Put Your Records On,77,399,491,-10778,0,6,538,563,89,11,151,91066,4,03:30,Sad,Validation,,0.640758349218358,Put Your Records On,,Ritt Momney
+Stuck with U (with Justin Bieber),Ariana Grande,87,Stuck with U,82,597,45,-6658,1,8,418,223,0,382,537,178765,3,03:48,Neutral,Validation,,0.779181871680034,Stuck With U (With Justin Bieber),,Ariana Grande
+Break My Heart,Dua Lipa,88,Future Nostalgia,78,73,729,-3434,0,4,884,167,0.000139,349,467,113011,4,03:42,Neutral,Train,,0.330395999279848,Break My Heart,,Dua Lipa
+Selfish,Madison Beer,71,Life Support,66,375,461,-6202,1,9,279,627,0,386,233,75217,4,03:43,Sad,Validation,,0.622522822276605,Selfish,,Madison Beer
+LEMONS - Demo,Brye,48,LEMONS (Demo),57,501,168,-13682,0,4,304,901,0,134,514,82574,4,03:13,Neutral,Train,,0.203555256615651,Lemons - Demo,,Brye
+The Less I Know The Better,Tame Impala,78,Currents,84,64,74,-4083,1,4,284,115,678,167,785,116879,4,03:36,Happy,Train,,0.284605902231704,The Less I Know The Better,,Tame Impala
+Buttercup,Jack Stauber,62,Pop Food,72,705,373,-9066,1,7,384,723,81,289,551,120046,4,03:28,Neutral,Validation,,0.603964449240346,Buttercup,,Jack Stauber
+Dissolve,Absofacto,56,Thousand Peaces,68,688,582,-10668,0,6,542,23,157,663,872,85486,4,03:45,Happy,Test,,0.921251449712009,Dissolve,,Absofacto
+Sunday Best,Surfaces,71,Where the Light Is,77,878,525,-6832,1,5,578,183,0,714,694,112022,4,02:39,Happy,Train,,0.317117824632643,Sunday Best,,Surfaces
+Airplane Mode,Limbo,50,Holo,0,665,373,-10631,1,7,158,852,118,108,7,119905,4,02:44,Sad,Train,,0.221643708746224,Airplane Mode,,Limbo
+Chinese New Year,Sales,61,Chinese New Year,66,744,845,-7422,0,4,253,759,232,1,749,75221,4,02:40,Happy,Test,,0.807421754177375,Chinese New Year,,Sales
+LMK,Lil Xxel,51,LMK,65,748,457,-756,1,6,465,292,294,444,464,123035,4,03:08,Neutral,Test,,0.928937912592689,Lmk,,Lil Xxel
+Why Is Everything Chrome (Lean Swag Rock Wit It),King Critical,29,Why Is Everything Chrome (Lean Swag Rock Wit It),46,915,392,-11548,1,7,475,112,0,319,675,13994,4,02:31,Happy,Train,,0.146775720061137,Why Is Everything Chrome (Lean Swag Rock Wit It),,King Critical
+Figure It Out,Blu Detiger,51,Figure It Out,54,747,554,-6154,0,8,289,493,425,332,585,96988,4,02:44,Neutral,Train,,0.399790323447938,Figure It Out,,Blu Detiger
+They Call Me Tiago (Her Name Is Margo),Tiagz,47,They Call Me Tiago (Her Name Is Margo),57,878,578,-7581,1,0,722,196,433,965,148,100996,4,02:34,Sad,Test,,0.930164086409436,They Call Me Tiago (Her Name Is Margo),,Tiagz
+My Heart Went Oops,Tiagz,47,My Heart Went Oops,51,96,412,-11281,1,1,607,119,0,903,49,121027,4,02:09,Sad,Test,,0.978995554662585,My Heart Went Oops,,Tiagz
+Muffins In The Freezer,Tiagz,47,Muffins In The Freezer,47,965,412,-8696,1,0,434,778,0.000112,867,486,12003,4,01:46,Neutral,Train,,0.190151906843721,Muffins In The Freezer,,Tiagz
+Beggin',Madcon,61,Conquest,61,715,796,-4889,0,4,534,284,0,658,431,12904,4,03:39,Neutral,Test,,0.983687381026963,Beggin',,Madcon
+Kolors,Monte Booker,47,Soulection White Label - Monte Booker,56,718,403,-11064,0,2,205,263,0.000156,228,636,129582,4,02:58,Neutral,Train,,0.0596514795839899,Kolors,,Monte Booker
+Play Date,Melanie Martinez,78,Cry Baby (Deluxe Edition),78,68,729,-5077,1,5,475,612,0,224,446,12397,4,03:00,Neutral,Train,,0.362386318325017,Play Date,,Melanie Martinez
+Ride It,Regard,71,Ride It,81,88,751,-4258,0,7,874,177,0.00643,106,884,117948,4,02:38,Happy,Train,,0.0186576992287848,Ride It,,Regard
+No Idea,Don Toliver,78,No Idea,2,651,631,-5717,0,6,896,519,579,165,35,127994,4,02:34,Sad,Validation,,0.759206360990485,No Idea,,Don Toliver
+Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),Polo G,83,Go Stupid (feat. NLE Choppa & Mike WiLL Made-It),54,92,833,-318,1,1,253,277,0,596,645,141034,4,02:46,Neutral,Train,,0.256652935862544,Go Stupid (Feat. Nle Choppa & Mike Will Made-It),,Polo G
+Cannibal,Kesha,76,Cannibal (Expanded Edition),66,71,68,-4676,1,1,106,78,165,493,571,129971,4,03:14,Neutral,Validation,,0.680631681231778,Cannibal,,Kesha
+Lottery (Renegade),K Camp,63,Wayy 2 Kritical,56,915,556,-8601,1,1,216,145,179,733,67,148964,4,02:51,Sad,Validation,,0.750585125390543,Lottery (Renegade),,K Camp
+Bad Boy,Yung Bae,57,Bad Boy,62,861,82,-4807,0,1,728,32,0.000476,706,781,11804,4,03:08,Happy,Train,,0.0817803986724228,Bad Boy,,Yung Bae
+Hard Times,Paramore,75,After Laughter,73,695,818,-5379,0,5,334,647,0.000487,219,916,119965,4,03:03,Happy,Train,,0.272345275997859,Hard Times,,Paramore
+death bed (coffee for your head),Powfu,71,death bed (coffee for your head),82,726,431,-8765,0,8,135,731,0,696,348,144026,4,02:53,Sad,Test,,0.826950589079852,Death Bed (Coffee For Your Head),,Powfu
+Backyard Boy,Claire Rosinkranz,63,Backyard Boy (Stripped),70,817,635,-7246,1,5,163,323,0,738,454,138015,4,02:09,Neutral,Train,,0.135858104928084,Backyard Boy,,Claire Rosinkranz
+cardigan,Taylor Swift,93,folklore,79,613,581,-8588,0,0,424,537,345,25,551,130033,4,04:00,Neutral,Validation,,0.647017179422595,Cardigan,,Taylor Swift
+Beef FloMix,Flo Milli,67,"Ho, why is you here ?",62,879,733,-3953,0,11,142,216,0,274,913,117039,4,02:28,Happy,Validation,,0.625554743629274,Beef Flomix,,Flo Milli
+Psycho!,Masn,60,How To Kill A Rockstar,68,876,312,-1017,1,7,521,443,0,247,377,114973,4,03:17,Neutral,Test,,0.95561911975123,Psycho!,,Masn
+Party Girl,Staysolidrocky,59,Party Girl,71,728,431,-9966,0,6,622,749,0,996,629,130022,4,02:28,Neutral,Train,,0.425294902980564,Party Girl,,Staysolidrocky
+Electric Love,Børns,67,Dopamine,82,611,797,-7627,0,6,533,543,137,26,518,120041,4,03:38,Neutral,Train,,0.451824615798693,Electric Love,,Børns
+Producer Man,Lyn Lapid,61,Producer Man,62,66,639,-5364,0,10,223,129,0,256,75,173994,4,02:22,Sad,Validation,,0.761333820893612,Producer Man,,Lyn Lapid
+ily (i love you baby) (feat. Emilee),Surf Mesa,64,ily (i love you baby) (feat. Emilee),78,674,774,-7567,0,11,892,686,188,393,33,11205,4,02:57,Sad,Train,,0.34821887746792,Ily (I Love You Baby) (Feat. Emilee),,Surf Mesa
+Mariposa,Peach Tree Rascals,60,Mariposa,74,676,525,-588,1,9,28,617,0,356,421,112011,4,03:30,Neutral,Train,,0.188962497799946,Mariposa,,Peach Tree Rascals
+FML,Arizona Zervas,66,Living Facts,0,816,59,-5961,0,2,121,854,0,108,612,100137,4,03:43,Neutral,Train,,0.227134666080716,Fml,,Arizona Zervas
+Savage Love (Laxed - Siren Beat),Jawsh 685,63,Savage Love (Laxed - Siren Beat),77,767,481,-852,0,0,803,234,0,269,761,150076,4,02:51,Happy,Train,,0.105103507770428,Savage Love (Laxed - Siren Beat),,Jawsh 685
+Stunnin',Curtis Waters,53,Stunnin',2,906,604,-8332,0,11,746,329,0,255,899,99996,4,02:24,Happy,Validation,,0.749429253642329,Stunnin',,Curtis Waters
+Deep End,Fousheé,65,Deep End,68,711,592,-7136,0,4,23,758,0,156,535,124749,4,02:21,Neutral,Test,,0.998395835925286,Deep End,,Fousheé
+Freak,Doja Cat,88,Freak,72,688,716,-5702,1,7,385,969,0,989,373,116912,3,04:44,Neutral,Test,,0.817803959907173,Freak,,Doja Cat
+Funny Thing,Thundercat,69,It Is What It Is,72,586,893,-8772,1,7,439,827,642,212,65,140023,3,01:57,Sad,Test,,0.801192848643183,Funny Thing,,Thundercat
+Money Trees,Kendrick Lamar,88,"good kid, m.A.A.d city",79,716,531,-7355,1,7,122,703,0,224,344,71994,4,06:27,Sad,Train,,0.4983146320035,Money Trees,,Kendrick Lamar
+Wait a Minute!,Willow,76,ARDIPITHECUS,86,764,705,-5279,0,3,278,371,0.00194,943,672,101003,4,03:17,Happy,Test,,0.820649742846104,Wait A Minute!,,Willow
+Eyes Blue Like The Atlantic,Sista Prod,56,Eyes Blue Like The Atlantic,0,736,279,-16926,0,9,903,65,312,246,476,76431,4,02:35,Neutral,Train,,0.577222105718267,Eyes Blue Like The Atlantic,,Sista Prod
+Mood (feat. iann dior),24Kgoldn,74,El Dorado,83,701,716,-3671,0,7,361,174,0,324,732,91007,4,02:21,Happy,Train,,0.173344441482583,Mood (Feat. Iann Dior),,24Kgoldn
+Mad at Disney,Salem Ilese,66,Mad at Disney,72,738,621,-7313,1,0,486,424,0.000739,692,715,113968,4,02:17,Happy,Train,,0.0620403649288192,Mad At Disney,,Salem Ilese
+Boss Bitch,Doja Cat,88,Boss Bitch,78,707,955,-4593,0,10,222,127,0,202,575,125989,4,02:14,Neutral,Validation,,0.790237584770941,Boss Bitch,,Doja Cat
+Falling,Trevor Daniel,66,Falling,15,785,431,-8756,0,10,364,123,0,887,236,127085,4,02:39,Sad,Train,,0.128940411118207,Falling,,Trevor Daniel
+Moon (And It Went Like),Kid Francescoli,56,Play Me Again,66,662,657,-10002,1,7,345,288,856,102,584,117986,4,06:31,Neutral,Train,,0.586300059405636,Moon (And It Went Like),,Kid Francescoli
+Just Fine,Mary J. Blige,70,Growing Pains,62,923,795,-361,0,11,117,394,565,101,588,123021,4,04:02,Neutral,Validation,,0.649592976710448,Just Fine,,Mary J. Blige
+Smile,Lily Allen,67,"Alright, Still (Deluxe)",71,632,639,-5938,1,5,259,143,0,221,733,95506,4,03:17,Happy,Train,,0.237642881093184,Smile,,Lily Allen
+Bulletproof,La Roux,65,La Roux,71,674,882,-2771,0,3,477,441,0.00647,68,682,123016,4,03:26,Happy,Test,,0.87102768636965,Bulletproof,,La Roux
+Heather,Conan Gray,81,Kid Krow,86,357,425,-7301,1,5,333,584,0,322,27,102078,3,03:18,Sad,Validation,,0.630164413117379,Heather,,Conan Gray
+Juicy,Doja Cat,88,Hot Pink,73,785,652,-2607,1,0,668,102,0,697,484,170024,4,03:23,Neutral,Test,,0.970851913530138,Juicy,,Doja Cat
+Blueberry Faygo,Lil Mosey,70,Certified Hitmaker,75,774,554,-7909,1,0,383,207,0,132,349,99034,4,02:43,Sad,Train,,0.534135940107769,Blueberry Faygo,,Lil Mosey
+American Boy,Estelle,65,Shine,78,727,729,-299,1,0,326,171,0,7,512,117932,4,04:45,Neutral,Validation,,0.633781666256076,American Boy,,Estelle
+Can't Stop Singing,Ross Lynch,62,Teen Beach Movie,60,513,69,-4986,1,0,341,51,0,102,777,96881,4,02:26,Happy,Train,,0.326979028881897,Can'T Stop Singing,,Ross Lynch
+Like That (feat. Gucci Mane),Doja Cat,88,Hot Pink,46,874,487,-6032,1,2,194,237,0,978,371,106052,4,02:43,Neutral,Train,,0.38311051260189,Like That (Feat. Gucci Mane),,Doja Cat
+Gimme Love,Joji,85,Nectar,65,484,632,-6917,1,5,976,695,243,209,736,126384,3,03:35,Happy,Train,,0.536507080455114,Gimme Love,,Joji
+Mine,Bazzi,72,COSMIC,24,719,803,-3834,1,4,795,148,0.000004,29,712,142966,4,02:14,Happy,Validation,,0.68614909036273,Mine,,Bazzi
+What They Want,Russ,77,There's Really A Wolf,72,71,404,-1004,0,1,379,484,0,953,398,139553,4,02:46,Neutral,Train,,0.0243680940720297,What They Want,,Russ
+La La La,Naughty Boy,60,La La La,58,754,677,-4399,0,6,316,112,0,111,254,124988,4,03:41,Sad,Train,,0.267932264501584,La La La,,Naughty Boy
+ROXANNE,Arizona Zervas,66,ROXANNE,78,621,601,-5616,0,6,148,522,0,46,457,116735,5,02:44,Neutral,Train,,0.259277741702187,Roxanne,,Arizona Zervas
+Homage,Mild High Club,62,Skiptracing,0,546,468,-8167,1,5,287,153,257,321,416,73372,4,02:57,Neutral,Test,,0.948071129135323,Homage,,Mild High Club
+Opaul,Freddie Dredd,72,Opaul,63,822,871,-4095,1,1,214,567,391,101,648,145062,4,02:21,Neutral,Train,,0.349192710515505,Opaul,,Freddie Dredd
+"Part of Your World - From ""The Little Mermaid"" / Soundtrack Version",Jodi Benson,53,The Little Mermaid,60,387,132,-15142,1,5,386,914,707,281,323,1000,4,03:15,Sad,Test,,0.814091377572955,"Part Of Your World - From ""The Little Mermaid"" / Soundtrack Version",,Jodi Benson
+Relationship (feat. Future),Young Thug,84,Beautiful Thugger Girls,69,842,597,-6336,1,2,627,252,0,124,298,145992,4,03:35,Sad,Train,,0.481842469780515,Relationship (Feat. Future),,Young Thug
+Borderline,Tame Impala,78,The Slow Rush,78,621,873,-3067,0,5,369,406,0.000091,824,873,9796,4,03:58,Happy,Validation,,0.735326625088793,Borderline,,Tame Impala
+Renee,Sales,61,Renee,65,924,386,-8183,1,9,548,755,253,118,424,108957,4,02:59,Neutral,Train,,0.151732729940623,Renee,,Sales
+Don't Start Now,Dua Lipa,88,Don't Start Now,79,794,793,-4521,0,11,842,125,0,952,677,123941,4,03:03,Happy,Test,,0.994581792786076,Don'T Start Now,,Dua Lipa
+Freak (feat. REI AMI),Sub Urban,67,Thrill Seeker,69,619,45,-11965,0,7,515,433,0,513,41,179755,4,03:14,Sad,Test,,0.816419064023206,Freak (Feat. Rei Ami),,Sub Urban
+Candy,Doja Cat,88,Amala,71,689,516,-5857,1,8,444,513,0,163,209,124876,4,03:11,Sad,Test,,0.946658815265515,Candy,,Doja Cat
+Ophelia,The Lumineers,76,Cleopatra,77,664,573,-6519,1,5,277,613,363,857,566,76023,4,02:40,Neutral,Test,,0.965167579932701,Ophelia,,The Lumineers
+Violent Crimes,Kanye West,90,ye,0,665,417,-6731,0,1,524,374,0,186,4,110111,4,03:35,Sad,Train,,0.586027676245884,Violent Crimes,,Kanye West
+Someone To You,Banners,65,Someone To You,0,511,93,-3649,1,2,441,56,0,242,673,7501,4,03:40,Happy,Test,,0.925987118374991,Someone To You,,Banners
+Plastic Hearts,Miley Cyrus,81,Plastic Hearts,70,551,756,-4948,1,2,652,511,0,765,618,175984,4,03:26,Neutral,Train,,0.553124716468879,Plastic Hearts,,Miley Cyrus
+Primadonna,Marina,73,Electra Heart,50,66,689,-2671,0,4,337,884,0,922,427,12798,4,03:41,Neutral,Validation,,0.688506728280356,Primadonna,,Marina
+Check It Out,Will.I.Am,72,Pink Friday (Complete Edition),53,848,694,-4272,1,1,572,493,0.00115,105,728,130075,4,04:11,Happy,Test,,0.841162997084481,Check It Out,,Will.I.Am
+Hood Baby,Kbfr,36,Hood Baby,53,974,472,-11848,0,11,447,488,157,116,806,126065,4,01:50,Happy,Validation,,0.603971066121839,Hood Baby,,Kbfr
+Shoota (feat. Lil Uzi Vert),Playboi Carti,82,Die Lit,79,673,649,-8433,0,1,196,188,0,122,47,153075,4,02:34,Sad,Train,,0.116099255630004,Shoota (Feat. Lil Uzi Vert),,Playboi Carti
+I Just Want to Be the One You Love,Boxout,44,I Just Want to Be the One You Love,62,497,349,-8749,0,9,877,967,37,228,251,140551,1,01:21,Sad,Test,,0.917214997944773,I Just Want To Be The One You Love,,Boxout
+Make You Mine,Public,61,Make You Mine,77,606,799,-4452,1,9,261,128,0,15,638,103014,4,03:53,Neutral,Train,,0.421483037750139,Make You Mine,,Public
+To Be So Lonely,Harry Styles,91,Fine Line,73,758,436,-7269,1,0,418,618,0.00161,335,605,104959,4,03:12,Neutral,Train,,0.311572737622144,To Be So Lonely,,Harry Styles
+Hotel Room Service,Pitbull,82,Hotel Room Service,63,849,599,-8164,1,6,227,301,249,763,761,126003,4,03:59,Happy,Train,,0.0190875296176612,Hotel Room Service,,Pitbull
+M to the B,Millie B,40,M to the B,58,897,513,-6973,0,10,309,571,0,101,692,139935,4,02:18,Happy,Test,,0.99780694894034,M To The B,,Millie B
+Say So (feat. Nicki Minaj),Doja Cat,88,Say So (feat. Nicki Minaj),65,856,641,-464,0,11,204,119,0.000497,427,745,111004,4,03:26,Happy,Train,,0.425679684248017,Say So (Feat. Nicki Minaj),,Doja Cat
+What's My Name?,Rihanna,87,Loud,54,69,786,-2959,1,2,692,229,0,797,583,100049,4,04:23,Neutral,Train,,0.563458364957424,What'S My Name?,,Rihanna
+Whatcha Say,Jason Derulo,80,Jason Derulo (Deluxe Audio),59,615,711,-5507,1,11,779,444,0,145,711,144036,4,03:41,Happy,Train,,0.394490782317414,Whatcha Say,,Jason Derulo
+Hey Julie! (feat. Lil Yachty),Kyle,66,Hey Julie! (feat. Lil Yachty),51,801,505,-5829,1,11,293,446,0.000952,122,757,161059,4,02:36,Happy,Test,,0.989549845643985,Hey Julie! (Feat. Lil Yachty),,Kyle
+Crush,Tessa Violet,56,Bad Ideas,65,91,402,-955,1,1,857,297,18,801,825,135993,4,03:36,Happy,Validation,,0.701647974141154,Crush,,Tessa Violet
+Mr. Blue Sky,Electric Light Orchestra,70,Out of the Blue,80,388,338,-10054,1,10,329,652,0.000373,248,478,177765,4,05:03,Neutral,Validation,,0.699062259540194,Mr. Blue Sky,,Electric Light Orchestra
+Myron,Lil Uzi Vert,85,Eternal Atake (Deluxe) - LUV vs. The World 2,73,771,654,-6976,0,8,298,55,0,214,573,155047,4,03:45,Neutral,Validation,,0.7935238353416,Myron,,Lil Uzi Vert
+I'm Looking for Mrs. Bubblegum,Memetown,20,I'm Looking for Mrs. Bubblegum,29,977,39,-10025,1,1,302,214,0.000606,58,962,124036,4,04:41,Happy,Train,,0.294232197953955,I'M Looking For Mrs. Bubblegum,,Memetown
+Partition,Beyoncé,89,BEYONCÉ [Platinum Edition],71,418,441,-11522,0,11,283,29,707,306,172,175928,4,05:19,Sad,Validation,,0.699808474085072,Partition,,Beyoncé
+Lets Link,Whoheem,48,Lets Link,1,839,683,-9232,0,10,165,667,0,241,522,120003,4,02:40,Neutral,Validation,,0.696246513223407,Lets Link,,Whoheem
+Are You Bored Yet? (feat. Clairo),Wallows,71,Nothing Happens,79,682,683,-6444,0,8,287,156,0.00232,273,64,120023,4,02:58,Sad,Train,,0.200129312867005,Are You Bored Yet? (Feat. Clairo),,Wallows
+Trampoline,Shaed,59,MELT,64,689,412,-7523,0,7,301,488,16,659,537,126754,4,03:04,Neutral,Train,,0.0252549541614233,Trampoline,,Shaed
+Paper Planes,M.I.A.,67,Kala,77,447,848,-6175,1,2,222,33,0.00746,65,485,172253,4,03:25,Neutral,Test,,0.862640940925153,Paper Planes,,M.I.A.
+She Belongs to the Streets (Toxic),Rontae Don'T Play,24,She Belongs to the Streets (Toxic),39,893,296,-15774,1,1,907,348,0,176,321,130145,4,02:28,Sad,Validation,,0.767640489469588,She Belongs To The Streets (Toxic),,Rontae Don'T Play
+OUT WEST (feat. Young Thug),Jackboys,65,JACKBOYS,77,802,591,-4895,1,8,225,104,0,196,309,139864,4,02:38,Sad,Test,,0.920857633437505,Out West (Feat. Young Thug),,Jackboys
+Breathe,Years & Years,70,Take Shelter,62,746,486,-7004,1,10,344,222,0.000141,123,417,92057,4,03:53,Neutral,Test,,0.937444349075034,Breathe,,Years & Years
+Yellow Hearts,Ant Saunders,52,Yellow Hearts,68,866,438,-8943,1,7,719,177,0,743,695,129039,4,03:43,Happy,Test,,0.960889716559988,Yellow Hearts,,Ant Saunders
+Needs,Verzache,61,Needs,68,813,601,-7552,0,11,116,189,2,426,855,118981,4,02:57,Happy,Validation,,0.74355518884099,Needs,,Verzache
+"Sofia the First Main Title Theme - From ""Sofia the First""",Cast - Sofia The First,44,Sofia the First,54,655,789,-3995,1,4,489,423,0,13,66,92968,4,00:53,Sad,Train,,0.203942945207513,"Sofia The First Main Title Theme - From ""Sofia The First""",,Cast - Sofia The First
+Mi Pan Su Su Sum,Miel Pops,0,Mi Pan Su Su Sum,0,696,375,-7543,1,3,493,27,0,269,688,101073,4,05:51,Happy,Train,,0.578375050725455,Mi Pan Su Su Sum,,Miel Pops
+Wasabi,Little Mix,77,LM5 (Deluxe),66,847,656,-4976,1,2,115,451,854,143,234,114001,4,02:35,Sad,Validation,,0.655131130420076,Wasabi,,Little Mix
+CITY OF ANGELS,24Kgoldn,74,DROPPED OUTTA COLLEGE,72,686,541,-4993,0,0,493,42,0,675,724,120082,4,01:52,Happy,Train,,0.408731967389143,City Of Angels,,24Kgoldn
+Rags to Riches,Youngboy Never Broke Again,84,Until Death Call My Name (Reloaded),47,763,604,-5754,1,1,114,838,0,261,18,147893,4,01:57,Sad,Train,,0.339943637089801,Rags To Riches,,Youngboy Never Broke Again
+Hatchback,Cochise,68,Hatchback,62,734,692,-6227,0,2,555,221,0,224,348,77994,4,02:29,Sad,Validation,,0.607944661098022,Hatchback,,Cochise
+VIBEZ,Dababy,82,KIRK,71,768,652,-2708,0,1,307,113,0,107,777,154187,4,02:25,Happy,Train,,0.363550998101218,Vibez,,Dababy
+Obnimi (Remix),Okean Elzi,46,Obnimi (Remix),64,714,845,-4234,0,7,856,199,762,372,51,75985,4,03:50,Sad,Train,,0.104143133998965,Obnimi (Remix),,Okean Elzi
+All About Cake (feat. Coi Leray & Kaash Paige),Kyleyoumadethat,37,All About Cake,30,905,521,-4318,1,1,443,213,0.00387,175,533,131115,4,03:00,Neutral,Test,,0.82368592184086,All About Cake (Feat. Coi Leray & Kaash Paige),,Kyleyoumadethat
+Lose Control,Meduza,74,Lose Control,78,598,526,-8659,0,10,415,129,0,14,529,123935,4,02:48,Neutral,Train,,0.280359440738117,Lose Control,,Meduza
+Coño,Puri,56,Coño,60,847,573,-6032,1,0,253,739,149,845,332,99919,4,02:18,Sad,Train,,0.396725310767073,Coño,,Puri
+Grow A Pear,Kesha,76,Cannibal (Expanded Edition),60,863,667,-3891,1,0,508,154,341,125,892,120011,4,03:29,Happy,Train,,0.581396367060459,Grow A Pear,,Kesha
+Say So - Japanese Version,Rainych,51,Say So (Japanese Version),59,732,668,-6768,1,2,444,775,0.000523,224,705,111001,4,04:02,Happy,Test,,0.944934660683254,Say So - Japanese Version,,Rainych
+Photo ID,Remi Wolf,65,I'm Allergic To Dogs!,63,822,66,-3637,1,1,819,111,0,143,802,113956,4,04:25,Happy,Train,,0.18632937781507,Photo Id,,Remi Wolf
+TROLLZ (with Nicki Minaj),6Ix9Ine,71,TROLLZ (with Nicki Minaj),5,744,422,-8946,1,1,294,319,11,11,493,180006,4,03:23,Neutral,Train,,0.181779490586002,Trollz (With Nicki Minaj),,6Ix9Ine
+Working Bitch,Ashnikko,69,"Hi, It's Me",58,928,392,-7537,0,3,563,374,0,107,454,102023,4,02:58,Neutral,Test,,0.993213461661304,Working Bitch,,Ashnikko
+Rags2Riches 2 (feat. Lil Baby),Rod Wave,78,Pray 4 Love (Deluxe),4,874,443,-9628,0,5,241,147,0,124,298,118004,4,03:56,Sad,Validation,,0.795515573654588,Rags2Riches 2 (Feat. Lil Baby),,Rod Wave
+Work Out,J. Cole,84,Cole World: The Sideline Story,80,831,427,-6903,1,2,106,531,0,307,216,93004,4,03:55,Sad,Train,,0.224890850476079,Work Out,,J. Cole
+The Box,Roddy Ricch,80,Please Excuse Me for Being Antisocial,81,896,586,-6687,0,10,559,104,0,79,642,116971,4,03:17,Neutral,Test,,0.886468122831228,The Box,,Roddy Ricch
+Calabria 2008,Enur,51,Raggatronic,54,891,657,-5552,0,10,165,833,26,54,453,125995,4,03:51,Neutral,Train,,0.419458479358188,Calabria 2008,,Enur
+Lalala,Y2K,63,Lalala,75,843,39,-7899,1,2,846,178,0,137,495,129972,4,02:41,Neutral,Validation,,0.61898204861455,Lalala,,Y2K
+Ben 10 - Theme Song,Kids Superstars,42,"Cartoon Heroes, Vol. 5",33,738,799,-7036,1,7,556,249,0,35,882,142094,4,01:01,Happy,Train,,0.163134457717261,Ben 10 - Theme Song,,Kids Superstars
+The Dice Beat Pt. 1,Ricky Desktop,55,The Dice Beat Pt. 1,34,946,269,-10061,1,1,567,18,68,108,999,12595,4,01:40,Happy,Test,,0.855741590308147,The Dice Beat Pt. 1,,Ricky Desktop
+Crimewave,Crystal Castles,66,Crystal Castles,66,746,691,-7533,0,4,403,184,259,205,888,119982,4,04:18,Happy,Train,,0.165443901015237,Crimewave,,Crystal Castles
+Mr. Sandman,The Chordettes,52,The Chordettes' Best,56,616,426,-8399,1,9,421,634,0,695,589,110395,4,02:24,Neutral,Test,,0.899779925313864,Mr. Sandman,,The Chordettes
+Toy,Netta,51,Toy,64,786,712,-5349,0,3,678,706,0,236,795,130144,4,03:00,Happy,Train,,0.0072006613273542,Toy,,Netta
+Tonight You Belong To Me,Patience & Prudence,39,The Best Of Patience & Prudence,52,68,32,-7544,0,10,289,954,0,948,769,10807,4,01:55,Happy,Train,,0.434220911686486,Tonight You Belong To Me,,Patience & Prudence
+It Won't Stop (feat. Chris Brown) - EP Version,Sevyn Streeter,60,"Call Me Crazy, But...",69,657,574,-9484,0,1,407,16,0.00081,172,211,119992,4,04:41,Sad,Test,,0.999937888972892,It Won'T Stop (Feat. Chris Brown) - Ep Version,,Sevyn Streeter
+All I Want,Olivia Rodrigo,85,High School Musical: The Musical: The Series (Original Soundtrack),75,376,43,-6585,0,0,328,902,0,912,129,77599,3,02:57,Sad,Train,,0.291895790494259,All I Want,,Olivia Rodrigo
+Stronger,Kanye West,90,Graduation,20,617,717,-7858,0,10,153,564,0,408,49,103992,4,05:12,Sad,Train,,0.141593060875628,Stronger,,Kanye West
+After Party,Don Toliver,78,Heaven Or Hell,80,629,692,-8045,1,5,376,981,331,603,453,162948,4,02:48,Neutral,Train,,0.050542279002987,After Party,,Don Toliver
+"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,70,"King's Dead (with Kendrick Lamar, Future & James Blake)",71,645,705,-5008,1,1,299,813,0,128,376,137133,4,03:50,Neutral,Test,,0.99104828249007,"King'S Dead (With Kendrick Lamar, Future & James Blake)",,Jay Rock
+Take It Off,Kesha,76,Animal (Expanded Edition),69,729,675,-5292,0,5,286,0.00414,126,867,74,125036,4,03:35,Sad,Train,,0.342554661009278,Take It Off,,Kesha
+3 Musketeers,Nextyoungin,47,3 Musketeers,65,91,617,-10234,1,0,847,258,0,122,572,104972,4,02:47,Neutral,Train,,0.372030563593877,3 Musketeers,,Nextyoungin
+Heal Me,Lady Gaga,84,A Star Is Born Soundtrack,56,606,544,-836,0,9,593,481,0,916,456,86013,4,03:17,Neutral,Train,,0.155231683272838,Heal Me,,Lady Gaga
+Queen of Disaster,Scarlett Rose,40,Queen of Disaster,49,688,316,-15548,0,9,357,631,0,387,688,128084,4,03:16,Happy,Test,,0.81942024568004,Queen Of Disaster,,Scarlett Rose
+Leave Em Alone,Quality Control,65,Leave Em Alone,59,517,747,-474,0,6,296,189,0.000735,821,506,102033,4,02:52,Neutral,Validation,,0.698820346694877,Leave Em Alone,,Quality Control
+Hurts So Good,Astrid S,66,Astrid S,68,675,609,-5027,0,7,586,84,0,957,378,120039,4,03:29,Neutral,Validation,,0.721097357992403,Hurts So Good,,Astrid S
+Confident,Justin Bieber,90,Journals,65,738,563,-5467,0,5,11,113,0,191,876,134132,4,04:08,Happy,Validation,,0.779902022195012,Confident,,Justin Bieber
+I'd Rather Sleep,Kero Kero Bonito,57,Intro Bonito,68,765,579,-7051,1,10,496,107,362,15,855,142065,4,01:55,Happy,Train,,0.158551482542869,I'D Rather Sleep,,Kero Kero Bonito
+Coffee Breath,Sofia Mills,53,Coffee Breath,70,866,211,-12676,0,11,404,974,0,987,198,101295,4,02:44,Sad,Train,,0.435553857189312,Coffee Breath,,Sofia Mills
+Ready or Not,Bridgit Mendler,62,Hello My Name Is...,73,715,872,-3835,1,2,509,351,0.00384,107,748,93043,4,03:21,Happy,Train,,0.192406695759043,Ready Or Not,,Bridgit Mendler
+Toosie Slide,Drake,95,Toosie Slide,73,834,454,-975,0,1,201,321,0.000615,114,837,81618,4,04:07,Happy,Train,,0.0578637142743208,Toosie Slide,,Drake
+Roses - Imanbek Remix,Saint Jhn,70,Roses (Imanbek Remix),81,77,724,-5484,1,8,495,167,107,353,898,121975,4,02:57,Happy,Train,,0.179235834232901,Roses - Imanbek Remix,,Saint Jhn
+Go Crazy,Chris Brown,86,Slime & B,77,755,578,-8932,0,0,145,316,0,25,581,94148,4,02:57,Neutral,Validation,,0.60576467680742,Go Crazy,,Chris Brown
+No Guidance (feat. Drake),Chris Brown,86,Indigo,79,696,454,-6756,0,1,153,123,0,155,136,92928,4,04:21,Sad,Test,,0.963267532504465,No Guidance (Feat. Drake),,Chris Brown
+Please Mr. Postman - Single Version / Mono,The Marvelettes,49,Please Mr. Postman,64,785,776,-5259,1,2,312,729,0,181,967,121505,4,02:28,Happy,Train,,0.261891812886315,Please Mr. Postman - Single Version / Mono,,The Marvelettes
+Get Up (feat. Chamillionaire),Ciara,68,The Evolution,47,964,595,-6887,0,1,109,248,0.000514,405,629,128593,4,04:22,Neutral,Train,,0.206997697299928,Get Up (Feat. Chamillionaire),,Ciara
+Lay All Your Love On Me,Abba,80,ABBA Gold,72,695,701,-6435,1,0,281,187,464,251,58,1330,4,04:33,Sad,Test,,0.852859081018303,Lay All Your Love On Me,,Abba
+Vibe (If I Back It Up),Cookiee Kawaii,53,Vibe (If I Back It Up),53,754,568,-8719,1,10,344,635,932,118,175,159947,4,01:24,Sad,Test,,0.904415815972378,Vibe (If I Back It Up),,Cookiee Kawaii
+Something New (feat. Ty Dolla $ign),Wiz Khalifa,82,Rolling Papers 2,59,814,635,-6609,0,7,809,935,0,892,784,87581,4,03:21,Happy,Validation,,0.791769191518298,Something New (Feat. Ty Dolla $Ign),,Wiz Khalifa
+Magic In The Hamptons (feat. Lil Yachty),Social House,64,Magic In The Hamptons (feat. Lil Yachty),75,769,479,-5339,1,1,385,66,0,914,803,96051,4,02:45,Happy,Test,,0.943845276545203,Magic In The Hamptons (Feat. Lil Yachty),,Social House
+Watermelon Sugar,Harry Styles,91,Watermelon Sugar,27,548,816,-4209,1,0,465,122,0,335,557,9539,4,02:54,Neutral,Train,,0.287455135098691,Watermelon Sugar,,Harry Styles
+Paradise,Coldplay,87,Mylo Xyloto,82,449,585,-6761,1,5,268,509,0.00875,833,212,139631,4,04:39,Sad,Validation,,0.69414062926714,Paradise,,Coldplay
+Cyber Sex,Doja Cat,88,Hot Pink,71,917,657,-5716,1,8,921,318,0.000362,754,818,13103,4,02:46,Happy,Validation,,0.716547140725399,Cyber Sex,,Doja Cat
+We Know,Lin-Manuel Miranda,71,Hamilton (Original Broadway Cast Recording),60,718,484,-10376,1,11,523,312,0,127,692,113855,4,02:22,Happy,Train,,0.345016278957013,We Know,,Lin-Manuel Miranda
+All The Stars (with SZA),Kendrick Lamar,88,Black Panther The Album Music From And Inspired By,82,698,633,-4946,1,8,597,605,194,926,552,96924,4,03:52,Neutral,Test,,0.800766333722948,All The Stars (With Sza),,Kendrick Lamar
+Because Of You,Ne-Yo,77,Because Of You,74,81,538,-5784,0,0,356,528,0,951,828,10997,4,04:27,Happy,Test,,0.907256974153796,Because Of You,,Ne-Yo
+Chanel,Frank Ocean,82,Chanel,78,776,503,-5732,0,0,237,874,0,112,473,110134,4,03:30,Neutral,Train,,0.280438670559234,Chanel,,Frank Ocean
+Round of Applause,K'Ron,28,Round of Applause,44,42,656,-6776,0,11,678,494,0,36,448,110457,4,05:46,Neutral,Validation,,0.655186425866667,Round Of Applause,,K'Ron
+Daisy,Ashnikko,69,DEMIDEVIL,71,834,663,-6143,1,8,133,235,0,372,774,121876,4,02:27,Happy,Train,,0.484891320797713,Daisy,,Ashnikko
+"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",Bee Gees,75,Greatest,63,632,683,-6434,1,7,383,163,13,847,701,105955,4,03:17,Happy,Train,,0.25687114936337,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",,Bee Gees
+Won't Bite (feat. Smino),Doja Cat,88,Hot Pink,68,807,783,-3115,1,5,964,351,0,14,592,127996,4,03:15,Neutral,Train,,0.324965642735693,Won'T Bite (Feat. Smino),,Doja Cat
+Heads Will Roll - A-Trak Remix,Yeah Yeah Yeahs,64,Heads Will Roll,61,744,614,-3908,0,1,838,685,334,708,774,131994,4,06:24,Happy,Train,,0.381721877832112,Heads Will Roll - A-Trak Remix,,Yeah Yeah Yeahs
+Just Can’t Get Enough,Black Eyed Peas,80,The Beginning,76,659,628,-8685,0,0,179,186,0,105,262,9405,4,03:39,Sad,Train,,0.365182035203525,Just Can’T Get Enough,,Black Eyed Peas
+Drugs,Upsahl,61,Drugs,68,883,415,-8571,0,6,174,35,0,63,318,76986,4,02:36,Sad,Train,,0.181669019385918,Drugs,,Upsahl
+SUGAR,Brockhampton,68,GINGER,73,453,538,-8212,1,1,638,449,0,19,516,122973,4,03:25,Neutral,Train,,0.055406476752394,Sugar,,Brockhampton
+Y U Gotta B Like That,Audrey Mika,56,Y U Gotta B Like That,58,732,413,-6353,1,9,702,287,0,565,761,92066,4,02:34,Happy,Train,,0.176666927095273,Y U Gotta B Like That,,Audrey Mika
+Take Your Man,Mahogany Lox,37,Take Your Man,54,934,658,-8052,1,0,108,411,738,809,344,110015,4,01:57,Sad,Test,,0.981382619544805,Take Your Man,,Mahogany Lox
+Save Your Tears,The Weeknd,93,After Hours,88,68,826,-5487,1,0,309,212,0.00124,543,644,118051,4,03:36,Neutral,Train,,0.354740698571108,Save Your Tears,,The Weeknd
+Love Songs,Kaash Paige,61,R&B Smooth Vibes,1,64,355,-10599,1,5,906,83,938,11,451,120063,4,02:29,Neutral,Train,,0.303041268371124,Love Songs,,Kaash Paige
+GOOBA,6Ix9Ine,71,GOOBA,7,611,688,-5688,1,1,341,264,0,251,393,178462,4,02:12,Neutral,Train,,0.486182289771342,Gooba,,6Ix9Ine
+Bored In The House,Tyga,79,Bored In The House,53,928,372,-10393,1,1,321,202,0.000096,948,732,112458,4,02:55,Happy,Validation,,0.618484717602928,Bored In The House,,Tyga
+Bound 2,Kanye West,90,Yeezus,83,367,665,-2821,1,1,465,145,0,113,31,148913,4,03:49,Sad,Train,,0.114409886335068,Bound 2,,Kanye West
+Still into You,Paramore,75,Paramore,79,602,923,-3763,1,5,44,98,0,561,765,13601,4,03:36,Happy,Test,,0.814008108659022,Still Into You,,Paramore
+Don't Wanna Fall In Love,Kyle,66,Smyle (Extended),0,487,617,-69,1,0,275,151,0,356,604,132088,4,03:52,Neutral,Validation,,0.781235776414508,Don'T Wanna Fall In Love,,Kyle
+prom dress,Mxmtoon,67,the masquerade,73,56,674,-6048,1,10,446,698,0,123,421,119942,4,03:18,Neutral,Train,,0.503166041852565,Prom Dress,,Mxmtoon
+fast,Sueco,65,fast,0,877,503,-10269,0,7,22,164,132,102,529,100069,4,02:24,Neutral,Train,,0.401635755744278,Fast,,Sueco
+High Fashion (feat. Mustard),Roddy Ricch,80,Please Excuse Me for Being Antisocial,73,831,499,-8442,0,11,114,269,0,3,511,97956,4,03:40,Neutral,Train,,0.412502305034643,High Fashion (Feat. Mustard),,Roddy Ricch
+Knock at the Door,Playsongs People,25,Playsongs Rhyme Time,12,604,151,-23928,0,7,883,821,0.00498,867,216,209082,3,00:38,Sad,Train,,0.161667476278213,Knock At The Door,,Playsongs People
+Be My Baby,The Ronettes,56,Presenting the Fabulous Ronettes Featuring Veronica,65,512,771,-7006,1,4,402,168,0,895,803,129639,4,02:41,Happy,Test,,0.941165665338182,Be My Baby,,The Ronettes
+Something For Your M.I.N.D.,Superorganism,52,Superorganism,58,698,542,-4317,1,2,131,132,117,199,664,140096,4,02:45,Happy,Train,,0.0822915525130549,Something For Your M.I.N.D.,,Superorganism
+Mary Jane (All Night Long),Mary J. Blige,70,My Life,61,784,298,-956,0,5,542,125,0.00319,678,846,87172,4,04:39,Happy,Validation,,0.724625206028806,Mary Jane (All Night Long),,Mary J. Blige
+Electric Feel,Mgmt,74,Oracular Spectacular,77,763,803,-3713,1,1,351,709,285,348,561,10304,3,03:50,Neutral,Validation,,0.783061671056231,Electric Feel,,Mgmt
+Savage Remix (feat. Beyoncé),Megan Thee Stallion,82,Savage Remix (feat. Beyoncé),67,822,743,-4772,0,10,28,16,0,127,636,84459,4,04:02,Neutral,Test,,0.822639427410517,Savage Remix (Feat. Beyoncé),,Megan Thee Stallion
+Dancing in My Room,347Aidan,70,Dancing in My Room,75,98,413,-11052,0,8,101,671,0.00795,17,764,119993,4,03:00,Happy,Train,,0.354646867081216,Dancing In My Room,,347Aidan
+20 Min,Lil Uzi Vert,85,Luv Is Rage 2 (Deluxe),83,773,75,-4009,0,8,117,109,0,174,783,123426,4,03:41,Happy,Train,,0.495411892234395,20 Min,,Lil Uzi Vert
+Throw That Back Like a Cadillac,El Memer,1,Throw That Back Like a Cadillac,0,894,627,-9408,1,7,639,758,0,108,383,13991,4,01:58,Neutral,Train,,0.552873893818952,Throw That Back Like A Cadillac,,El Memer
+Gangsta,Kehlani,76,SweetSexySavage (Deluxe),56,465,446,-8336,0,10,433,102,0,321,131,121801,4,02:58,Sad,Validation,,0.618612130985664,Gangsta,,Kehlani
+Monster,Lady Gaga,84,The Fame Monster (Deluxe Edition),61,694,801,-4503,0,9,441,124,0,479,646,119969,4,04:09,Neutral,Test,,0.950683314320631,Monster,,Lady Gaga
+My Ordinary Life,The Living Tombstone,69,My Ordinary Life,79,648,827,-478,0,9,42,533,338,217,598,176005,4,03:51,Neutral,Train,,0.341344573700864,My Ordinary Life,,The Living Tombstone
+Walked In,Ultradiox,29,Walked In,41,891,538,-6724,1,2,394,123,0,848,643,80032,4,01:47,Neutral,Train,,0.50047124034956,Walked In,,Ultradiox
+Lemonade,Internet Money,72,"Lemonade (feat. Gunna, Don Toliver & NAV)",76,799,66,-6153,0,1,79,256,0,111,471,14004,4,03:15,Neutral,Test,,0.994706014415816,Lemonade,,Internet Money
+F2020,Avenue Beat,47,F2020,0,702,597,-7067,1,2,207,587,0.000362,112,383,85016,4,03:02,Neutral,Validation,,0.650470258640326,F2020,,Avenue Beat
+Desperado,Rihanna,87,ANTI (Deluxe),72,685,61,-5221,0,0,439,323,0,102,323,94384,3,03:06,Sad,Train,,0.114276384777383,Desperado,,Rihanna
+Tap In,Saweetie,73,Tap In,67,954,696,-7117,0,10,204,576,498,754,432,100036,4,02:19,Neutral,Train,,0.485122405447888,Tap In,,Saweetie
+Good Form (feat. Lil Wayne) - Remix,Nicki Minaj,85,Queen (Deluxe),64,898,733,-475,1,7,178,533,115,102,295,9651,4,03:57,Sad,Validation,,0.744937953911752,Good Form (Feat. Lil Wayne) - Remix,,Nicki Minaj
+Island In The Sun,Weezer,73,Weezer (Green Album),78,654,81,-626,0,4,288,719,251,165,661,114623,4,03:20,Happy,Train,,0.291072096197084,Island In The Sun,,Weezer
+Deep End Freestyle,Sleepy Hallow,77,Deep End Freestyle,64,876,479,-6687,0,4,44,703,0,102,776,133858,4,01:55,Happy,Train,,0.473340262416669,Deep End Freestyle,,Sleepy Hallow
+Ramalama (Bang Bang),Róisín Murphy,52,Ruby Blue,52,822,655,-8316,1,9,363,205,535,1,518,106977,4,03:35,Neutral,Validation,,0.727835341710319,Ramalama (Bang Bang),,Róisín Murphy
+Outside (feat. Ellie Goulding),Calvin Harris,86,Motion,78,646,823,-4123,0,2,394,213,0,322,418,128035,4,03:47,Neutral,Test,,0.925098878683225,Outside (Feat. Ellie Goulding),,Calvin Harris
+Only The Young - Featured in Miss Americana,Taylor Swift,93,Only The Young (Featured in Miss Americana),64,56,78,-4895,0,5,517,244,0,714,602,93516,4,02:38,Neutral,Test,,0.871914014106084,Only The Young - Featured In Miss Americana,,Taylor Swift
+Wet (She Got That…),Yfn Lucci,58,Wet (She Got That…),56,695,642,-613,0,1,194,238,0,359,316,128022,4,03:30,Sad,Validation,,0.71870779611322,Wet (She Got That…),,Yfn Lucci
+Walk Man,Tiny Meat Gang,52,Walk Man,59,928,696,-4972,0,4,866,331,119,121,396,94994,4,02:46,Neutral,Train,,0.0236613547376878,Walk Man,,Tiny Meat Gang
+Marlboro Nights,Lonely God,59,Marlboro Nights,0,497,825,-6772,1,2,278,166,284,361,812,87943,4,01:09,Happy,Test,,0.801173215673295,Marlboro Nights,,Lonely God
+Aesthetic,Xilo,39,Aesthetic,2,714,594,-1063,1,0,43,965,255,129,45,169837,4,02:38,Sad,Train,,0.00594416445556156,Aesthetic,,Xilo
+Paris,Else,49,Paris,63,792,583,-8305,0,8,27,23,582,809,54,102979,4,03:30,Sad,Train,,0.323066287166873,Paris,,Else
+Do It,Chloe X Halle,60,Ungodly Hour,67,725,668,-7286,0,5,55,932,0.000233,112,566,82966,4,02:57,Neutral,Validation,,0.719192262701311,Do It,,Chloe X Halle
+Hello?,Clairo,75,diary 001,68,839,473,-7835,0,10,607,641,459,939,644,98732,4,02:15,Neutral,Train,,0.0627003728019295,Hello?,,Clairo
+Yellow Hearts (feat. Audrey Mika),Ant Saunders,52,Yellow Hearts (feat. Audrey Mika),55,816,401,-8041,1,7,22,464,0,657,678,129041,4,03:01,Happy,Train,,0.0964052095512689,Yellow Hearts (Feat. Audrey Mika),,Ant Saunders
+Love Story (Taylor’s Version),Taylor Swift,93,Love Story (Taylor’s Version),73,626,79,-4302,1,2,311,135,0.000397,989,416,119082,4,03:56,Neutral,Train,,0.448829665317108,Love Story (Taylor’S Version),,Taylor Swift
+Another Day Of Sun,La La Land Cast,46,La La Land (Original Motion Picture Soundtrack),64,588,742,-6757,1,8,528,162,0.000398,653,824,125819,4,03:48,Happy,Train,,0.0353152834571632,Another Day Of Sun,,La La Land Cast
+iSpy (feat. Lil Yachty),Kyle,66,iSpy (feat. Lil Yachty),72,746,653,-6745,1,7,289,378,0,229,672,75016,4,04:13,Happy,Train,,0.355104434515223,Ispy (Feat. Lil Yachty),,Kyle
+Vibin',Kesh Kesh,26,Vibin',41,686,805,-6816,0,11,154,478,0.000109,887,289,130981,4,02:35,Sad,Train,,0.462889711839685,Vibin',,Kesh Kesh
+Hungry Hippo,Tierra Whack,58,Whack World,57,893,61,-5691,0,4,488,227,744,102,778,13664,4,01:00,Happy,Test,,0.890974974309548,Hungry Hippo,,Tierra Whack
+Becky,Championxiii,39,Champion Status,46,934,439,-9564,0,4,338,506,0,92,289,140022,4,01:59,Sad,Train,,0.379221625875303,Becky,,Championxiii
+Kraazy,Likybo,43,Million Dollar Mindset,60,689,701,-9477,0,6,237,314,0,123,37,94982,4,02:32,Sad,Train,,0.580829039588764,Kraazy,,Likybo
+Kream (feat. Tyga),Iggy Azalea,69,Survive The Summer,66,785,425,-6665,1,10,137,335,0.000436,108,192,174028,4,02:47,Sad,Train,,0.241166158958534,Kream (Feat. Tyga),,Iggy Azalea
+Let Go,Ark Patrol,54,Let Go,70,47,436,-10228,1,0,351,67,263,294,389,81972,3,04:08,Neutral,Train,,0.146502988986829,Let Go,,Ark Patrol
+Lost,Frank Ocean,82,channel ORANGE,84,913,603,-4892,1,8,226,272,503,167,497,123061,4,03:54,Neutral,Train,,0.417658114881452,Lost,,Frank Ocean
+Still Don't Know My Name,Labrinth,78,Euphoria (Original Score from the HBO Series),78,316,63,-5963,1,5,117,471,262,205,313,89643,1,02:33,Sad,Test,,0.980293517229658,Still Don'T Know My Name,,Labrinth
+Disco Inferno,50 Cent,82,The Massacre,73,925,659,-4763,1,3,231,206,0.00788,279,71,97018,4,03:34,Sad,Train,,0.44881735564364,Disco Inferno,,50 Cent
+Famous (I'm The One) (feat. Yo Gotti & DeJ Loaf),Mozzy,68,Gangland Landlord,56,432,612,-8846,0,11,211,185,0,308,253,88716,4,03:25,Sad,Train,,0.461863973666099,Famous (I'M The One) (Feat. Yo Gotti & Dej Loaf),,Mozzy
+Marry Me,Rasheeda,40,Boss B*tch Music Vol. 3,41,769,637,-64,1,8,572,476,0.00615,35,361,79016,4,03:55,Neutral,Test,,0.837398137279133,Marry Me,,Rasheeda
+TKN (feat. Travis Scott),Rosalía,83,TKN (feat. Travis Scott),72,776,509,-6266,0,0,467,192,0.000149,115,485,94634,4,02:09,Neutral,Train,,0.519868702032422,Tkn (Feat. Travis Scott),,Rosalía
+Do It Again,Pia Mia,61,Do It Again,73,712,564,-6527,1,8,47,266,0,874,411,9595,4,03:28,Neutral,Train,,0.354544403781445,Do It Again,,Pia Mia
+223's (feat. 9lokknine),Ynw Melly,73,223's (feat. 9lokknine),65,932,547,-7787,0,0,333,388,0,924,695,94998,4,02:57,Happy,Train,,0.00676037846704314,223'S (Feat. 9Lokknine),,Ynw Melly
+VALENTINO,24Kgoldn,74,DROPPED OUTTA COLLEGE,72,746,717,-4841,0,9,179,199,0,132,523,150964,4,02:59,Neutral,Train,,0.178939606381844,Valentino,,24Kgoldn
+May I,Flo Milli,67,"Ho, why is you here ?",61,896,78,-3547,1,1,202,828,0,857,85,106032,4,02:43,Sad,Train,,0.0801855451501047,May I,,Flo Milli
+THICK (feat. Megan Thee Stallion) - Remix,Dj Chose,46,THICK (feat. Megan Thee Stallion) [Remix],52,877,747,-5873,1,4,365,288,0,273,679,145162,4,03:25,Happy,Validation,,0.616370825650042,Thick (Feat. Megan Thee Stallion) - Remix,,Dj Chose
+Rake It Up (feat. Nicki Minaj),Yo Gotti,69,I Still Am,67,91,444,-8126,0,1,344,22,0,137,53,149953,4,04:36,Sad,Validation,,0.688916769781997,Rake It Up (Feat. Nicki Minaj),,Yo Gotti
+Crisis,Jasiah,62,Crisis,59,76,794,-4311,0,10,344,263,324,996,583,16599,4,01:50,Neutral,Train,,0.418345794436479,Crisis,,Jasiah
+Banana (feat. Shaggy) - DJ FLe - Minisiren Remix,Conkarah,53,Banana (feat. Shaggy) [DJ FLe - Minisiren Remix],65,824,854,-5312,1,8,177,16,0.00495,117,896,95114,4,03:30,Happy,Test,,0.989603333038611,Banana (Feat. Shaggy) - Dj Fle - Minisiren Remix,,Conkarah
+Ponteme Despalda,Nfasis,54,Ponteme Despalda,6,78,766,-772,1,0,7,181,172,342,441,96011,4,01:17,Neutral,Train,,0.339470110158489,Ponteme Despalda,,Nfasis
+When She Loved Me,Lyn Lapid,61,When She Loved Me,61,604,458,-19031,1,4,762,973,0,963,617,76235,3,03:08,Neutral,Train,,0.0674039883437883,When She Loved Me,,Lyn Lapid
+Say It Right,Nelly Furtado,74,Loose,79,872,872,-6328,1,1,139,476,112,543,809,116948,4,03:43,Happy,Train,,0.113761727112343,Say It Right,,Nelly Furtado
+To the Right,Devour,46,Different,38,946,671,-5534,1,0,724,204,0,178,731,100013,4,02:45,Happy,Test,,0.946587947456017,To The Right,,Devour
+Let It Happen,Tame Impala,78,Currents,74,602,881,-5875,0,1,443,462,266,111,577,125012,4,07:48,Neutral,Train,,0.0413049162994986,Let It Happen,,Tame Impala
+"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,72,B4 The Storm,77,8,658,-6142,0,1,79,25,0,111,462,140042,4,03:15,Neutral,Test,,0.834792121995432,"Lemonade (Feat. Gunna, Don Toliver & Nav)",,Internet Money
+Let's Do It Again,J Boog,57,Backyard Boogie,65,631,696,-5631,0,0,211,578,0,784,927,173537,4,03:12,Happy,Test,,0.906267429092026,Let'S Do It Again,,J Boog
+SLOW DANCING IN THE DARK,Joji,85,BALLADS 1,85,515,479,-7458,1,3,261,544,598,191,284,88964,4,03:29,Sad,Test,,0.863193871262378,Slow Dancing In The Dark,,Joji
+hate u love u,Olivia O'Brien,69,hate u love u,74,407,416,-8915,0,6,174,656,0,981,246,176947,4,02:55,Sad,Validation,,0.668213234160684,Hate U Love U,,Olivia O'Brien
+Laxed – Siren Beat,Jawsh 685,63,Laxed (Siren Beat),54,736,62,-8481,0,0,11,577,692,318,959,150026,4,03:22,Happy,Train,,0.0327149475148424,Laxed – Siren Beat,,Jawsh 685
+Get It Together,Drake,95,More Life,71,781,721,-9133,0,5,514,945,391,104,849,123011,4,04:10,Happy,Train,,0.592659387154305,Get It Together,,Drake
+Pocketful of Sunshine,Natasha Bedingfield,64,Pocketful Of Sunshine,69,721,88,-3896,0,9,454,191,0,769,655,110021,4,03:23,Happy,Train,,0.540008497267751,Pocketful Of Sunshine,,Natasha Bedingfield
+Always Forever,Cults,68,Static,80,174,742,-593,1,8,485,181,281,198,36,163378,4,03:44,Sad,Train,,0.454106843563018,Always Forever,,Cults
+Party Party Party (feat. Chris Brown & Dej Loaf),Dj Carisma,30,Party Party Party (feat. Chris Brown & Dej Loaf),47,601,602,-5763,1,7,183,376,0.00334,318,564,94919,4,03:11,Neutral,Test,,0.845969609397713,Party Party Party (Feat. Chris Brown & Dej Loaf),,Dj Carisma
+Interior Crocodile Alligator,Chip Tha Ripper,45,Interior Crocodile Alligator,45,742,727,-6914,1,1,487,136,0,259,774,178401,4,01:50,Happy,Train,,0.393680102010288,Interior Crocodile Alligator,,Chip Tha Ripper
+One Wish,Ray J,55,Raydiation,63,525,652,-7042,0,5,28,278,0,339,602,127673,4,05:38,Neutral,Train,,0.521072722734638,One Wish,,Ray J
+Baby I'm Yours,Breakbot,57,By Your Side,69,829,792,-3755,0,2,668,726,0.000583,122,758,11805,4,03:36,Happy,Train,,0.207592917871834,Baby I'M Yours,,Breakbot
+Cha Cha,Freddie Dredd,72,Cha Cha,69,792,698,-6364,1,1,172,489,788,127,751,129971,4,02:54,Happy,Train,,0.406789418942211,Cha Cha,,Freddie Dredd
+Go Go Go Who's Next?,Hip Hop Harry,21,Go Go Go Who's Next?,35,95,738,-9504,0,10,323,113,209,112,568,104998,4,03:09,Neutral,Validation,,0.716461296068935,Go Go Go Who'S Next?,,Hip Hop Harry
+No Role Modelz,J. Cole,84,2014 Forest Hills Drive,87,69,521,-8492,0,10,339,324,0,534,494,100028,4,04:53,Neutral,Validation,,0.68894545776748,No Role Modelz,,J. Cole
+Addison Rae,The Kid Laroi,83,Addison Rae,59,901,49,-9099,0,5,129,155,0,109,397,135015,4,02:44,Neutral,Test,,0.940485919582997,Addison Rae,,The Kid Laroi
+WHATS POPPIN,Jack Harlow,84,Sweet Action,77,923,604,-6671,0,11,245,17,0,272,826,145062,4,02:20,Happy,Train,,0.175173830957654,Whats Poppin,,Jack Harlow
+Cheryl,Yung Gravy,75,Cheryl,62,801,698,-8998,0,0,33,477,0.000146,184,502,765,4,02:49,Neutral,Train,,0.304934256016321,Cheryl,,Yung Gravy
+Ultralight Beam,Kanye West,90,The Life Of Pablo,70,592,403,-8768,0,0,414,62,0,54,391,105169,4,05:21,Neutral,Validation,,0.674447603849424,Ultralight Beam,,Kanye West
+Mr. Clean,Yung Gravy,75,Snow Cougar,72,758,701,-6053,1,9,162,685,0.000622,114,626,10674,4,03:31,Neutral,Train,,0.0987786914286688,Mr. Clean,,Yung Gravy
+feel something,Bea Miller,68,feel something,71,74,415,-8914,1,0,707,242,156,319,156,136029,4,03:00,Sad,Train,,0.327261648137531,Feel Something,,Bea Miller
+Rodeo,Lil Nas X,81,7 EP,68,706,679,-5614,1,9,324,139,0.00698,465,657,140081,4,02:39,Happy,Train,,0.0682209750218236,Rodeo,,Lil Nas X
+Then Leave (feat. Queendom Come),Beatking,49,Then Leave (feat. Queendom Come),57,912,568,-6107,1,2,476,656,105,521,491,140968,4,02:32,Neutral,Validation,,0.673533987749169,Then Leave (Feat. Queendom Come),,Beatking
+I Wanna Love You,Akon,79,Konvicted (Complete Edition),64,863,501,-8753,0,9,433,164,0,272,357,99994,4,04:07,Neutral,Validation,,0.788345185570461,I Wanna Love You,,Akon
+Everybody Talks,Neon Trees,66,Picture Show,79,471,924,-3906,1,8,586,301,0,313,725,154961,4,02:57,Happy,Validation,,0.730627764186685,Everybody Talks,,Neon Trees
+Can't Leave 'Em Alone (feat. 50 Cent),Ciara,68,The Evolution,61,527,696,-6015,0,1,361,209,0,516,499,100614,4,04:05,Neutral,Train,,0.182767818189341,Can'T Leave 'Em Alone (Feat. 50 Cent),,Ciara
+Moment 4 Life,Nicki Minaj,85,Pink Friday (Complete Edition),52,68,881,-3883,1,11,237,406,0,242,386,97941,4,04:39,Neutral,Validation,,0.635342602007355,Moment 4 Life,,Nicki Minaj
+We R Who We R,Kesha,76,Cannibal (Expanded Edition),72,736,817,-49,1,8,407,987,167,117,653,11995,4,03:25,Happy,Train,,0.0913044042774069,We R Who We R,,Kesha
+Give Your Heart a Break,Demi Lovato,79,Unbroken,70,651,695,-3218,1,6,487,23,0,144,569,123008,4,03:25,Neutral,Validation,,0.719001875280343,Give Your Heart A Break,,Demi Lovato
+Lucky,Britney Spears,78,Oops!... I Did It Again,66,765,791,-5707,1,8,317,262,154,669,966,95026,4,03:26,Happy,Validation,,0.612104788831304,Lucky,,Britney Spears
+Buttons,The Pussycat Dolls,68,PCD,65,57,821,-438,1,2,267,178,0,289,408,210857,4,03:46,Neutral,Validation,,0.677420275133111,Buttons,,The Pussycat Dolls
+Get Busy,Sean Paul,79,Dutty Rock,74,735,824,-4143,0,10,36,615,0,158,726,100202,4,03:32,Happy,Test,,0.851832035346574,Get Busy,,Sean Paul
+ROCKSTAR (feat. Roddy Ricch),Dababy,82,BLAME IT ON BABY,80,746,69,-7956,1,11,164,247,0,101,497,89977,4,03:02,Neutral,Train,,0.173384996773732,Rockstar (Feat. Roddy Ricch),,Dababy
+Who Says,Selena Gomez & The Scene,67,When The Sun Goes Down,76,682,927,-2915,1,4,479,843,0,149,744,101019,4,03:16,Happy,Train,,0.531115287628953,Who Says,,Selena Gomez & The Scene
+Crystal Dolphin,Engelwood,50,Crust FM,60,558,776,-6868,1,9,179,33,445,41,247,128064,4,01:55,Sad,Test,,0.906287728481607,Crystal Dolphin,,Engelwood
